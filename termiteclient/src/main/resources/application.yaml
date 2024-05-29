@@ -1,0 +1,11 @@
+mqtt-server:
+  address: 0.0.0.0
+  port: 5702
+  id: 1001
+
+server:
+  port: 8082
+
+spring:
+  main:
+    allow-circular-references: true

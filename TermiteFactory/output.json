@@ -1,0 +1,828 @@
+{
+  "allocation": {
+    "machines": [
+      {
+        "number": 0,
+        "name": "1005",
+        "operations": [
+          {
+            "job": 7,
+            "number": 0,
+            "startTime": 35223.0,
+            "processTime": 1200.0,
+            "transportTime": 120.0,
+            "nextMachine": 4,
+            "preMachine": -1,
+            "operationName": "welding 1",
+            "operationCode": "welding 1"
+          },
+          {
+            "job": 5,
+            "number": 0,
+            "startTime": 36423.0,
+            "processTime": 1200.0,
+            "transportTime": 120.0,
+            "nextMachine": 4,
+            "preMachine": -1,
+            "operationName": "welding 1",
+            "operationCode": "welding 1"
+          },
+          {
+            "job": 2,
+            "number": 0,
+            "startTime": 37623.0,
+            "processTime": 1200.0,
+            "transportTime": 120.0,
+            "nextMachine": 4,
+            "preMachine": -1,
+            "operationName": "welding 1",
+            "operationCode": "welding 1"
+          },
+          {
+            "job": 16,
+            "number": 0,
+            "startTime": 38823.0,
+            "processTime": 1200.0,
+            "transportTime": 120.0,
+            "nextMachine": 2,
+            "preMachine": -1,
+            "operationName": "welding 1",
+            "operationCode": "welding 1"
+          },
+          {
+            "job": 17,
+            "number": 0,
+            "startTime": 40023.0,
+            "processTime": 1200.0,
+            "transportTime": 120.0,
+            "nextMachine": 4,
+            "preMachine": -1,
+            "operationName": "welding 1",
+            "operationCode": "welding 1"
+          },
+          {
+            "job": 0,
+            "number": 0,
+            "startTime": 41223.0,
+            "processTime": 1200.0,
+            "transportTime": 120.0,
+            "nextMachine": 2,
+            "preMachine": -1,
+            "operationName": "welding 1",
+            "operationCode": "welding 1"
+          },
+          {
+            "job": 6,
+            "number": 0,
+            "startTime": 42423.0,
+            "processTime": 1200.0,
+            "transportTime": 120.0,
+            "nextMachine": 4,
+            "preMachine": -1,
+            "operationName": "welding 1",
+            "operationCode": "welding 1"
+          }
+        ]
+      },
+      {
+        "number": 1,
+        "name": "1006",
+        "operations": [
+          {
+            "job": 1,
+            "number": 0,
+            "startTime": 35223.0,
+            "processTime": 2400.0,
+            "transportTime": 120.0,
+            "nextMachine": 2,
+            "preMachine": -1,
+            "operationName": "welding 1",
+            "operationCode": "welding 1"
+          },
+          {
+            "job": 4,
+            "number": 0,
+            "startTime": 37623.0,
+            "processTime": 2400.0,
+            "transportTime": 120.0,
+            "nextMachine": 4,
+            "preMachine": -1,
+            "operationName": "welding 1",
+            "operationCode": "welding 1"
+          },
+          {
+            "job": 3,
+            "number": 0,
+            "startTime": 40023.0,
+            "processTime": 2400.0,
+            "transportTime": 120.0,
+            "nextMachine": 4,
+            "preMachine": -1,
+            "operationName": "welding 1",
+            "operationCode": "welding 1"
+          }
+        ]
+      },
+      {
+        "number": 2,
+        "name": "1007",
+        "operations": [
+          {
+            "job": 1,
+            "number": 1,
+            "startTime": 37743.0,
+            "processTime": 2400.0,
+            "transportTime": 120.0,
+            "nextMachine": 6,
+            "preMachine": 1,
+            "operationName": "welding 2",
+            "operationCode": "welding 2"
+          },
+          {
+            "job": 16,
+            "number": 1,
+            "startTime": 40143.0,
+            "processTime": 2400.0,
+            "transportTime": 120.0,
+            "nextMachine": 6,
+            "preMachine": 0,
+            "operationName": "welding 2",
+            "operationCode": "welding 2"
+          },
+          {
+            "job": 0,
+            "number": 1,
+            "startTime": 42543.0,
+            "processTime": 2400.0,
+            "transportTime": 120.0,
+            "nextMachine": 6,
+            "preMachine": 0,
+            "operationName": "welding 2",
+            "operationCode": "welding 2"
+          }
+        ]
+      },
+      {
+        "number": 3,
+        "name": "1008",
+        "operations": []
+      },
+      {
+        "number": 4,
+        "name": "1009",
+        "operations": [
+          {
+            "job": 5,
+            "number": 1,
+            "startTime": 37743.0,
+            "processTime": 2400.0,
+            "transportTime": 120.0,
+            "nextMachine": 6,
+            "preMachine": 0,
+            "operationName": "welding 2",
+            "operationCode": "welding 2"
+          },
+          {
+            "job": 2,
+            "number": 1,
+            "startTime": 40143.0,
+            "processTime": 2400.0,
+            "transportTime": 120.0,
+            "nextMachine": 6,
+            "preMachine": 0,
+            "operationName": "welding 2",
+            "operationCode": "welding 2"
+          },
+          {
+            "job": 17,
+            "number": 1,
+            "startTime": 42543.0,
+            "processTime": 2400.0,
+            "transportTime": 120.0,
+            "nextMachine": 5,
+            "preMachine": 0,
+            "operationName": "welding 2",
+            "operationCode": "welding 2"
+          },
+          {
+            "job": 4,
+            "number": 1,
+            "startTime": 44943.0,
+            "processTime": 2400.0,
+            "transportTime": 120.0,
+            "nextMachine": 5,
+            "preMachine": 1,
+            "operationName": "welding 2",
+            "operationCode": "welding 2"
+          },
+          {
+            "job": 7,
+            "number": 1,
+            "startTime": 47343.0,
+            "processTime": 2400.0,
+            "transportTime": 120.0,
+            "nextMachine": 5,
+            "preMachine": 0,
+            "operationName": "welding 2",
+            "operationCode": "welding 2"
+          },
+          {
+            "job": 3,
+            "number": 1,
+            "startTime": 49743.0,
+            "processTime": 2400.0,
+            "transportTime": 120.0,
+            "nextMachine": 5,
+            "preMachine": 1,
+            "operationName": "welding 2",
+            "operationCode": "welding 2"
+          },
+          {
+            "job": 6,
+            "number": 1,
+            "startTime": 52143.0,
+            "processTime": 2400.0,
+            "transportTime": 120.0,
+            "nextMachine": 6,
+            "preMachine": 0,
+            "operationName": "welding 2",
+            "operationCode": "welding 2"
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "name": "1010",
+        "operations": [
+          {
+            "job": 4,
+            "number": 2,
+            "startTime": 47463.0,
+            "processTime": 3600.0,
+            "transportTime": 120.0,
+            "nextMachine": 7,
+            "preMachine": 4,
+            "operationName": "welding 3",
+            "operationCode": "welding 3"
+          },
+          {
+            "job": 7,
+            "number": 2,
+            "startTime": 51063.0,
+            "processTime": 3600.0,
+            "transportTime": 120.0,
+            "nextMachine": 7,
+            "preMachine": 4,
+            "operationName": "welding 3",
+            "operationCode": "welding 3"
+          },
+          {
+            "job": 17,
+            "number": 2,
+            "startTime": 54663.0,
+            "processTime": 3600.0,
+            "transportTime": 120.0,
+            "nextMachine": 7,
+            "preMachine": 4,
+            "operationName": "welding 3",
+            "operationCode": "welding 3"
+          },
+          {
+            "job": 3,
+            "number": 2,
+            "startTime": 58263.0,
+            "processTime": 3600.0,
+            "transportTime": 120.0,
+            "nextMachine": 7,
+            "preMachine": 4,
+            "operationName": "welding 3",
+            "operationCode": "welding 3"
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "name": "1011",
+        "operations": [
+          {
+            "job": 1,
+            "number": 2,
+            "startTime": 40263.0,
+            "processTime": 3600.0,
+            "transportTime": 120.0,
+            "nextMachine": 7,
+            "preMachine": 2,
+            "operationName": "welding 3",
+            "operationCode": "welding 3"
+          },
+          {
+            "job": 5,
+            "number": 2,
+            "startTime": 43863.0,
+            "processTime": 3600.0,
+            "transportTime": 120.0,
+            "nextMachine": 7,
+            "preMachine": 4,
+            "operationName": "welding 3",
+            "operationCode": "welding 3"
+          },
+          {
+            "job": 2,
+            "number": 2,
+            "startTime": 47463.0,
+            "processTime": 3600.0,
+            "transportTime": 120.0,
+            "nextMachine": 7,
+            "preMachine": 4,
+            "operationName": "welding 3",
+            "operationCode": "welding 3"
+          },
+          {
+            "job": 16,
+            "number": 2,
+            "startTime": 51063.0,
+            "processTime": 3600.0,
+            "transportTime": 120.0,
+            "nextMachine": 7,
+            "preMachine": 2,
+            "operationName": "welding 3",
+            "operationCode": "welding 3"
+          },
+          {
+            "job": 0,
+            "number": 2,
+            "startTime": 54663.0,
+            "processTime": 3600.0,
+            "transportTime": 120.0,
+            "nextMachine": 7,
+            "preMachine": 2,
+            "operationName": "welding 3",
+            "operationCode": "welding 3"
+          },
+          {
+            "job": 6,
+            "number": 2,
+            "startTime": 58263.0,
+            "processTime": 3600.0,
+            "transportTime": 120.0,
+            "nextMachine": 7,
+            "preMachine": 4,
+            "operationName": "welding 3",
+            "operationCode": "welding 3"
+          }
+        ]
+      },
+      {
+        "number": 7,
+        "name": "1012",
+        "operations": [
+          {
+            "job": 2,
+            "number": 3,
+            "startTime": 51183.0,
+            "processTime": 600.0,
+            "transportTime": 0.0,
+            "nextMachine": -1,
+            "preMachine": 6,
+            "operationName": "encapsulation",
+            "operationCode": "encapsulation"
+          },
+          {
+            "job": 1,
+            "number": 3,
+            "startTime": 51783.0,
+            "processTime": 600.0,
+            "transportTime": 0.0,
+            "nextMachine": -1,
+            "preMachine": 6,
+            "operationName": "encapsulation",
+            "operationCode": "encapsulation"
+          },
+          {
+            "job": 4,
+            "number": 3,
+            "startTime": 52383.0,
+            "processTime": 600.0,
+            "transportTime": 0.0,
+            "nextMachine": -1,
+            "preMachine": 5,
+            "operationName": "encapsulation",
+            "operationCode": "encapsulation"
+          },
+          {
+            "job": 3,
+            "number": 3,
+            "startTime": 61983.0,
+            "processTime": 600.0,
+            "transportTime": 0.0,
+            "nextMachine": -1,
+            "preMachine": 5,
+            "operationName": "encapsulation",
+            "operationCode": "encapsulation"
+          },
+          {
+            "job": 5,
+            "number": 3,
+            "startTime": 62583.0,
+            "processTime": 600.0,
+            "transportTime": 0.0,
+            "nextMachine": -1,
+            "preMachine": 6,
+            "operationName": "encapsulation",
+            "operationCode": "encapsulation"
+          },
+          {
+            "job": 17,
+            "number": 3,
+            "startTime": 63183.0,
+            "processTime": 600.0,
+            "transportTime": 0.0,
+            "nextMachine": -1,
+            "preMachine": 5,
+            "operationName": "encapsulation",
+            "operationCode": "encapsulation"
+          },
+          {
+            "job": 0,
+            "number": 3,
+            "startTime": 63783.0,
+            "processTime": 600.0,
+            "transportTime": 0.0,
+            "nextMachine": -1,
+            "preMachine": 6,
+            "operationName": "encapsulation",
+            "operationCode": "encapsulation"
+          },
+          {
+            "job": 7,
+            "number": 3,
+            "startTime": 64383.0,
+            "processTime": 600.0,
+            "transportTime": 0.0,
+            "nextMachine": -1,
+            "preMachine": 5,
+            "operationName": "encapsulation",
+            "operationCode": "encapsulation"
+          },
+          {
+            "job": 6,
+            "number": 3,
+            "startTime": 64983.0,
+            "processTime": 600.0,
+            "transportTime": 0.0,
+            "nextMachine": -1,
+            "preMachine": 6,
+            "operationName": "encapsulation",
+            "operationCode": "encapsulation"
+          },
+          {
+            "job": 16,
+            "number": 3,
+            "startTime": 65583.0,
+            "processTime": 600.0,
+            "transportTime": 0.0,
+            "nextMachine": -1,
+            "preMachine": 6,
+            "operationName": "encapsulation",
+            "operationCode": "encapsulation"
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "name": "1004",
+        "operations": [
+          {
+            "job": 8,
+            "number": 0,
+            "startTime": 66928.58441227156,
+            "processTime": 1200.0,
+            "transportTime": 0.0,
+            "nextMachine": -1,
+            "preMachine": -1,
+            "operationName": "welding",
+            "operationCode": "welding"
+          },
+          {
+            "job": 14,
+            "number": 0,
+            "startTime": 68128.58441227156,
+            "processTime": 1200.0,
+            "transportTime": 0.0,
+            "nextMachine": -1,
+            "preMachine": -1,
+            "operationName": "welding",
+            "operationCode": "welding"
+          },
+          {
+            "job": 11,
+            "number": 0,
+            "startTime": 69328.58441227156,
+            "processTime": 1200.0,
+            "transportTime": 0.0,
+            "nextMachine": -1,
+            "preMachine": -1,
+            "operationName": "welding",
+            "operationCode": "welding"
+          },
+          {
+            "job": 12,
+            "number": 0,
+            "startTime": 70528.58441227156,
+            "processTime": 1200.0,
+            "transportTime": 0.0,
+            "nextMachine": -1,
+            "preMachine": -1,
+            "operationName": "welding",
+            "operationCode": "welding"
+          },
+          {
+            "job": 9,
+            "number": 0,
+            "startTime": 71728.58441227156,
+            "processTime": 1200.0,
+            "transportTime": 0.0,
+            "nextMachine": -1,
+            "preMachine": -1,
+            "operationName": "welding",
+            "operationCode": "welding"
+          },
+          {
+            "job": 15,
+            "number": 0,
+            "startTime": 72928.58441227156,
+            "processTime": 1200.0,
+            "transportTime": 0.0,
+            "nextMachine": -1,
+            "preMachine": -1,
+            "operationName": "welding",
+            "operationCode": "welding"
+          },
+          {
+            "job": 10,
+            "number": 0,
+            "startTime": 74128.58441227156,
+            "processTime": 1200.0,
+            "transportTime": 0.0,
+            "nextMachine": -1,
+            "preMachine": -1,
+            "operationName": "welding",
+            "operationCode": "welding"
+          },
+          {
+            "job": 13,
+            "number": 0,
+            "startTime": 75328.58441227156,
+            "processTime": 1200.0,
+            "transportTime": 0.0,
+            "nextMachine": -1,
+            "preMachine": -1,
+            "operationName": "welding",
+            "operationCode": "welding"
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "name": "1001",
+        "operations": [
+          {
+            "job": 20,
+            "number": 0,
+            "startTime": 288000.0,
+            "processTime": 1200.0,
+            "transportTime": 1800.0,
+            "nextMachine": 11,
+            "preMachine": -1,
+            "operationName": "assambly",
+            "operationCode": "assembly"
+          }
+        ]
+      },
+      {
+        "number": 10,
+        "name": "1002",
+        "operations": [
+          {
+            "job": 21,
+            "number": 0,
+            "startTime": 288000.0,
+            "processTime": 1200.0,
+            "transportTime": 1800.0,
+            "nextMachine": 11,
+            "preMachine": -1,
+            "operationName": "assambly",
+            "operationCode": "assembly"
+          },
+          {
+            "job": 18,
+            "number": 0,
+            "startTime": 289200.0,
+            "processTime": 1200.0,
+            "transportTime": 1800.0,
+            "nextMachine": 11,
+            "preMachine": -1,
+            "operationName": "assambly",
+            "operationCode": "assembly"
+          },
+          {
+            "job": 19,
+            "number": 0,
+            "startTime": 290400.0,
+            "processTime": 1200.0,
+            "transportTime": 1800.0,
+            "nextMachine": 11,
+            "preMachine": -1,
+            "operationName": "assambly",
+            "operationCode": "assembly"
+          }
+        ]
+      },
+      {
+        "number": 11,
+        "name": "1003",
+        "operations": [
+          {
+            "job": 18,
+            "number": 1,
+            "startTime": 292200.0,
+            "processTime": 240.0,
+            "transportTime": 0.0,
+            "nextMachine": -1,
+            "preMachine": 10,
+            "operationName": "pack",
+            "operationCode": "pack"
+          },
+          {
+            "job": 21,
+            "number": 1,
+            "startTime": 292440.0,
+            "processTime": 240.0,
+            "transportTime": 0.0,
+            "nextMachine": -1,
+            "preMachine": 10,
+            "operationName": "pack",
+            "operationCode": "pack"
+          },
+          {
+            "job": 20,
+            "number": 1,
+            "startTime": 292680.0,
+            "processTime": 240.0,
+            "transportTime": 0.0,
+            "nextMachine": -1,
+            "preMachine": 9,
+            "operationName": "pack",
+            "operationCode": "pack"
+          },
+          {
+            "job": 19,
+            "number": 1,
+            "startTime": 293400.0,
+            "processTime": 240.0,
+            "transportTime": 0.0,
+            "nextMachine": -1,
+            "preMachine": 10,
+            "operationName": "pack",
+            "operationCode": "pack"
+          }
+        ]
+      }
+    ]
+  },
+  "jobList": [
+    {
+      "index": 0,
+      "nextJob": 8,
+      "jobCode": "robotGripper1",
+      "jobName": "robot gripper 1"
+    },
+    {
+      "index": 1,
+      "nextJob": 9,
+      "jobCode": "robotGripper1",
+      "jobName": "robot gripper 1"
+    },
+    {
+      "index": 2,
+      "nextJob": 10,
+      "jobCode": "robotGripper1",
+      "jobName": "robot gripper 1"
+    },
+    {
+      "index": 3,
+      "nextJob": 11,
+      "jobCode": "robotGripper1",
+      "jobName": "robot gripper 1"
+    },
+    {
+      "index": 4,
+      "nextJob": 12,
+      "jobCode": "robotGripper1",
+      "jobName": "robot gripper 1"
+    },
+    {
+      "index": 5,
+      "nextJob": 13,
+      "jobCode": "robotGripper1",
+      "jobName": "robot gripper 1"
+    },
+    {
+      "index": 6,
+      "nextJob": 14,
+      "jobCode": "robotGripper1",
+      "jobName": "robot gripper 1"
+    },
+    {
+      "index": 7,
+      "nextJob": 15,
+      "jobCode": "robotGripper1",
+      "jobName": "robot gripper 1"
+    },
+    {
+      "index": 8,
+      "nextJob": 18,
+      "jobCode": "robotArm1",
+      "jobName": "robot arm 1"
+    },
+    {
+      "index": 9,
+      "nextJob": 18,
+      "jobCode": "robotArm1",
+      "jobName": "robot arm 1"
+    },
+    {
+      "index": 10,
+      "nextJob": 19,
+      "jobCode": "robotArm1",
+      "jobName": "robot arm 1"
+    },
+    {
+      "index": 11,
+      "nextJob": 19,
+      "jobCode": "robotArm1",
+      "jobName": "robot arm 1"
+    },
+    {
+      "index": 12,
+      "nextJob": 20,
+      "jobCode": "robotArm1",
+      "jobName": "robot arm 1"
+    },
+    {
+      "index": 13,
+      "nextJob": 20,
+      "jobCode": "robotArm1",
+      "jobName": "robot arm 1"
+    },
+    {
+      "index": 14,
+      "nextJob": 21,
+      "jobCode": "robotArm1",
+      "jobName": "robot arm 1"
+    },
+    {
+      "index": 15,
+      "nextJob": 21,
+      "jobCode": "robotArm1",
+      "jobName": "robot arm 1"
+    },
+    {
+      "index": 16,
+      "nextJob": -1,
+      "jobCode": "robotGripper1",
+      "jobName": "robot gripper 1"
+    },
+    {
+      "index": 17,
+      "nextJob": -1,
+      "jobCode": "robotGripper1",
+      "jobName": "robot gripper 1"
+    },
+    {
+      "index": 18,
+      "nextJob": -1,
+      "jobCode": "robot1",
+      "jobName": "robot type 1"
+    },
+    {
+      "index": 19,
+      "nextJob": -1,
+      "jobCode": "robot1",
+      "jobName": "robot type 1"
+    },
+    {
+      "index": 20,
+      "nextJob": -1,
+      "jobCode": "robot1",
+      "jobName": "robot type 1"
+    },
+    {
+      "index": 21,
+      "nextJob": -1,
+      "jobCode": "robot1",
+      "jobName": "robot type 1"
+    }
+  ]
+}
+

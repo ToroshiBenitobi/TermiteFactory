@@ -1,0 +1,1619 @@
+{
+  "nameMaps": {
+    "machineNameMap": [
+      "1005",
+      "1006",
+      "1007",
+      "1008",
+      "1009",
+      "1010",
+      "1011",
+      "1012",
+      "1004",
+      "1001",
+      "1002",
+      "1003"
+    ],
+    "taskNameMap": [
+      {
+        "jobCode": "robotGripper1",
+        "jobName": "robot gripper 1",
+        "operations": [
+          {
+            "procedureName": "welding 1",
+            "procedureCode": "welding 1"
+          },
+          {
+            "procedureName": "welding 2",
+            "procedureCode": "welding 2"
+          },
+          {
+            "procedureName": "welding 3",
+            "procedureCode": "welding 3"
+          },
+          {
+            "procedureName": "encapsulation",
+            "procedureCode": "encapsulation"
+          }
+        ]
+      },
+      {
+        "jobCode": "robotGripper1",
+        "jobName": "robot gripper 1",
+        "operations": [
+          {
+            "procedureName": "welding 1",
+            "procedureCode": "welding 1"
+          },
+          {
+            "procedureName": "welding 2",
+            "procedureCode": "welding 2"
+          },
+          {
+            "procedureName": "welding 3",
+            "procedureCode": "welding 3"
+          },
+          {
+            "procedureName": "encapsulation",
+            "procedureCode": "encapsulation"
+          }
+        ]
+      },
+      {
+        "jobCode": "robotGripper1",
+        "jobName": "robot gripper 1",
+        "operations": [
+          {
+            "procedureName": "welding 1",
+            "procedureCode": "welding 1"
+          },
+          {
+            "procedureName": "welding 2",
+            "procedureCode": "welding 2"
+          },
+          {
+            "procedureName": "welding 3",
+            "procedureCode": "welding 3"
+          },
+          {
+            "procedureName": "encapsulation",
+            "procedureCode": "encapsulation"
+          }
+        ]
+      },
+      {
+        "jobCode": "robotGripper1",
+        "jobName": "robot gripper 1",
+        "operations": [
+          {
+            "procedureName": "welding 1",
+            "procedureCode": "welding 1"
+          },
+          {
+            "procedureName": "welding 2",
+            "procedureCode": "welding 2"
+          },
+          {
+            "procedureName": "welding 3",
+            "procedureCode": "welding 3"
+          },
+          {
+            "procedureName": "encapsulation",
+            "procedureCode": "encapsulation"
+          }
+        ]
+      },
+      {
+        "jobCode": "robotGripper1",
+        "jobName": "robot gripper 1",
+        "operations": [
+          {
+            "procedureName": "welding 1",
+            "procedureCode": "welding 1"
+          },
+          {
+            "procedureName": "welding 2",
+            "procedureCode": "welding 2"
+          },
+          {
+            "procedureName": "welding 3",
+            "procedureCode": "welding 3"
+          },
+          {
+            "procedureName": "encapsulation",
+            "procedureCode": "encapsulation"
+          }
+        ]
+      },
+      {
+        "jobCode": "robotGripper1",
+        "jobName": "robot gripper 1",
+        "operations": [
+          {
+            "procedureName": "welding 1",
+            "procedureCode": "welding 1"
+          },
+          {
+            "procedureName": "welding 2",
+            "procedureCode": "welding 2"
+          },
+          {
+            "procedureName": "welding 3",
+            "procedureCode": "welding 3"
+          },
+          {
+            "procedureName": "encapsulation",
+            "procedureCode": "encapsulation"
+          }
+        ]
+      },
+      {
+        "jobCode": "robotGripper1",
+        "jobName": "robot gripper 1",
+        "operations": [
+          {
+            "procedureName": "welding 1",
+            "procedureCode": "welding 1"
+          },
+          {
+            "procedureName": "welding 2",
+            "procedureCode": "welding 2"
+          },
+          {
+            "procedureName": "welding 3",
+            "procedureCode": "welding 3"
+          },
+          {
+            "procedureName": "encapsulation",
+            "procedureCode": "encapsulation"
+          }
+        ]
+      },
+      {
+        "jobCode": "robotGripper1",
+        "jobName": "robot gripper 1",
+        "operations": [
+          {
+            "procedureName": "welding 1",
+            "procedureCode": "welding 1"
+          },
+          {
+            "procedureName": "welding 2",
+            "procedureCode": "welding 2"
+          },
+          {
+            "procedureName": "welding 3",
+            "procedureCode": "welding 3"
+          },
+          {
+            "procedureName": "encapsulation",
+            "procedureCode": "encapsulation"
+          }
+        ]
+      },
+      {
+        "jobCode": "robotArm1",
+        "jobName": "robot arm 1",
+        "operations": [
+          {
+            "procedureName": "welding",
+            "procedureCode": "welding"
+          }
+        ]
+      },
+      {
+        "jobCode": "robotArm1",
+        "jobName": "robot arm 1",
+        "operations": [
+          {
+            "procedureName": "welding",
+            "procedureCode": "welding"
+          }
+        ]
+      },
+      {
+        "jobCode": "robotArm1",
+        "jobName": "robot arm 1",
+        "operations": [
+          {
+            "procedureName": "welding",
+            "procedureCode": "welding"
+          }
+        ]
+      },
+      {
+        "jobCode": "robotArm1",
+        "jobName": "robot arm 1",
+        "operations": [
+          {
+            "procedureName": "welding",
+            "procedureCode": "welding"
+          }
+        ]
+      },
+      {
+        "jobCode": "robotArm1",
+        "jobName": "robot arm 1",
+        "operations": [
+          {
+            "procedureName": "welding",
+            "procedureCode": "welding"
+          }
+        ]
+      },
+      {
+        "jobCode": "robotArm1",
+        "jobName": "robot arm 1",
+        "operations": [
+          {
+            "procedureName": "welding",
+            "procedureCode": "welding"
+          }
+        ]
+      },
+      {
+        "jobCode": "robotArm1",
+        "jobName": "robot arm 1",
+        "operations": [
+          {
+            "procedureName": "welding",
+            "procedureCode": "welding"
+          }
+        ]
+      },
+      {
+        "jobCode": "robotArm1",
+        "jobName": "robot arm 1",
+        "operations": [
+          {
+            "procedureName": "welding",
+            "procedureCode": "welding"
+          }
+        ]
+      },
+      {
+        "jobCode": "robot1",
+        "jobName": "robot type 1",
+        "operations": [
+          {
+            "procedureName": "assambly",
+            "procedureCode": "assembly"
+          },
+          {
+            "procedureName": "pack",
+            "procedureCode": "pack"
+          }
+        ]
+      },
+      {
+        "jobCode": "robot1",
+        "jobName": "robot type 1",
+        "operations": [
+          {
+            "procedureName": "assambly",
+            "procedureCode": "assembly"
+          },
+          {
+            "procedureName": "pack",
+            "procedureCode": "pack"
+          }
+        ]
+      },
+      {
+        "jobCode": "robot1",
+        "jobName": "robot type 1",
+        "operations": [
+          {
+            "procedureName": "assambly",
+            "procedureCode": "assembly"
+          },
+          {
+            "procedureName": "pack",
+            "procedureCode": "pack"
+          }
+        ]
+      },
+      {
+        "jobCode": "robot1",
+        "jobName": "robot type 1",
+        "operations": [
+          {
+            "procedureName": "assambly",
+            "procedureCode": "assembly"
+          },
+          {
+            "procedureName": "pack",
+            "procedureCode": "pack"
+          }
+        ]
+      }
+    ]
+  },
+  "startTime": 35223.0,
+  "startDay": 5,
+  "transportationRate": 0.5,
+  "numberOfOperations": [
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    2,
+    2
+  ],
+  "isPCO": [
+    [
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false
+    ],
+    [
+      false
+    ],
+    [
+      false
+    ],
+    [
+      false
+    ],
+    [
+      false
+    ],
+    [
+      false
+    ],
+    [
+      false
+    ],
+    [
+      false
+    ],
+    [
+      true,
+      false
+    ],
+    [
+      true,
+      false
+    ],
+    [
+      true,
+      false
+    ],
+    [
+      true,
+      false
+    ]
+  ],
+  "processingIntervalConstraint": [
+    [
+      [
+        "NaN",
+        "NaN"
+      ],
+      [
+        "NaN",
+        "NaN"
+      ],
+      [
+        "NaN",
+        "NaN"
+      ],
+      [
+        "NaN",
+        "NaN"
+      ]
+    ],
+    [
+      [
+        "NaN",
+        "NaN"
+      ],
+      [
+        "NaN",
+        "NaN"
+      ],
+      [
+        "NaN",
+        "NaN"
+      ],
+      [
+        "NaN",
+        "NaN"
+      ]
+    ],
+    [
+      [
+        "NaN",
+        "NaN"
+      ],
+      [
+        "NaN",
+        "NaN"
+      ],
+      [
+        "NaN",
+        "NaN"
+      ],
+      [
+        "NaN",
+        "NaN"
+      ]
+    ],
+    [
+      [
+        "NaN",
+        "NaN"
+      ],
+      [
+        "NaN",
+        "NaN"
+      ],
+      [
+        "NaN",
+        "NaN"
+      ],
+      [
+        "NaN",
+        "NaN"
+      ]
+    ],
+    [
+      [
+        "NaN",
+        "NaN"
+      ],
+      [
+        "NaN",
+        "NaN"
+      ],
+      [
+        "NaN",
+        "NaN"
+      ],
+      [
+        "NaN",
+        "NaN"
+      ]
+    ],
+    [
+      [
+        "NaN",
+        "NaN"
+      ],
+      [
+        "NaN",
+        "NaN"
+      ],
+      [
+        "NaN",
+        "NaN"
+      ],
+      [
+        "NaN",
+        "NaN"
+      ]
+    ],
+    [
+      [
+        "NaN",
+        "NaN"
+      ],
+      [
+        "NaN",
+        "NaN"
+      ],
+      [
+        "NaN",
+        "NaN"
+      ],
+      [
+        "NaN",
+        "NaN"
+      ]
+    ],
+    [
+      [
+        "NaN",
+        "NaN"
+      ],
+      [
+        "NaN",
+        "NaN"
+      ],
+      [
+        "NaN",
+        "NaN"
+      ],
+      [
+        "NaN",
+        "NaN"
+      ]
+    ],
+    [
+      [
+        "NaN",
+        "NaN"
+      ]
+    ],
+    [
+      [
+        "NaN",
+        "NaN"
+      ]
+    ],
+    [
+      [
+        "NaN",
+        "NaN"
+      ]
+    ],
+    [
+      [
+        "NaN",
+        "NaN"
+      ]
+    ],
+    [
+      [
+        "NaN",
+        "NaN"
+      ]
+    ],
+    [
+      [
+        "NaN",
+        "NaN"
+      ]
+    ],
+    [
+      [
+        "NaN",
+        "NaN"
+      ]
+    ],
+    [
+      [
+        "NaN",
+        "NaN"
+      ]
+    ],
+    [
+      [
+        28800.0,
+        64800.0
+      ],
+      [
+        "NaN",
+        "NaN"
+      ]
+    ],
+    [
+      [
+        28800.0,
+        64800.0
+      ],
+      [
+        "NaN",
+        "NaN"
+      ]
+    ],
+    [
+      [
+        28800.0,
+        64800.0
+      ],
+      [
+        "NaN",
+        "NaN"
+      ]
+    ],
+    [
+      [
+        28800.0,
+        64800.0
+      ],
+      [
+        "NaN",
+        "NaN"
+      ]
+    ]
+  ],
+  "processingDayConstraint": [
+    [
+      [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    ],
+    [
+      [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    ],
+    [
+      [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    ],
+    [
+      [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    ],
+    [
+      [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    ],
+    [
+      [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    ],
+    [
+      [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    ],
+    [
+      [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    ],
+    [
+      [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    ],
+    [
+      [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    ],
+    [
+      [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    ],
+    [
+      [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    ],
+    [
+      [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    ],
+    [
+      [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    ],
+    [
+      [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    ],
+    [
+      [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    ],
+    [
+      [
+        false,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false
+      ],
+      [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    ],
+    [
+      [
+        false,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false
+      ],
+      [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    ],
+    [
+      [
+        false,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false
+      ],
+      [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    ],
+    [
+      [
+        false,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false
+      ],
+      [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    ]
+  ],
+  "rawMaterialCost": [
+    300.0,
+    300.0,
+    300.0,
+    300.0,
+    300.0,
+    300.0,
+    300.0,
+    300.0,
+    1500.0,
+    1500.0,
+    1500.0,
+    1500.0,
+    1500.0,
+    1500.0,
+    1500.0,
+    1500.0,
+    1000.0,
+    1000.0,
+    1000.0,
+    1000.0
+  ],
+  "processTime": [
+    [
+      {
+        "0": 1200.0,
+        "1": 2400.0
+      },
+      {
+        "2": 2400.0,
+        "3": 3600.0,
+        "4": 2400.0
+      },
+      {
+        "5": 3600.0,
+        "6": 3600.0
+      },
+      {
+        "7": 600.0
+      }
+    ],
+    [
+      {
+        "0": 1200.0,
+        "1": 2400.0
+      },
+      {
+        "2": 2400.0,
+        "3": 3600.0,
+        "4": 2400.0
+      },
+      {
+        "5": 3600.0,
+        "6": 3600.0
+      },
+      {
+        "7": 600.0
+      }
+    ],
+    [
+      {
+        "0": 1200.0,
+        "1": 2400.0
+      },
+      {
+        "2": 2400.0,
+        "3": 3600.0,
+        "4": 2400.0
+      },
+      {
+        "5": 3600.0,
+        "6": 3600.0
+      },
+      {
+        "7": 600.0
+      }
+    ],
+    [
+      {
+        "0": 1200.0,
+        "1": 2400.0
+      },
+      {
+        "2": 2400.0,
+        "3": 3600.0,
+        "4": 2400.0
+      },
+      {
+        "5": 3600.0,
+        "6": 3600.0
+      },
+      {
+        "7": 600.0
+      }
+    ],
+    [
+      {
+        "0": 1200.0,
+        "1": 2400.0
+      },
+      {
+        "2": 2400.0,
+        "3": 3600.0,
+        "4": 2400.0
+      },
+      {
+        "5": 3600.0,
+        "6": 3600.0
+      },
+      {
+        "7": 600.0
+      }
+    ],
+    [
+      {
+        "0": 1200.0,
+        "1": 2400.0
+      },
+      {
+        "2": 2400.0,
+        "3": 3600.0,
+        "4": 2400.0
+      },
+      {
+        "5": 3600.0,
+        "6": 3600.0
+      },
+      {
+        "7": 600.0
+      }
+    ],
+    [
+      {
+        "0": 1200.0,
+        "1": 2400.0
+      },
+      {
+        "2": 2400.0,
+        "3": 3600.0,
+        "4": 2400.0
+      },
+      {
+        "5": 3600.0,
+        "6": 3600.0
+      },
+      {
+        "7": 600.0
+      }
+    ],
+    [
+      {
+        "0": 1200.0,
+        "1": 2400.0
+      },
+      {
+        "2": 2400.0,
+        "3": 3600.0,
+        "4": 2400.0
+      },
+      {
+        "5": 3600.0,
+        "6": 3600.0
+      },
+      {
+        "7": 600.0
+      }
+    ],
+    [
+      {
+        "8": 1200.0
+      }
+    ],
+    [
+      {
+        "8": 1200.0
+      }
+    ],
+    [
+      {
+        "8": 1200.0
+      }
+    ],
+    [
+      {
+        "8": 1200.0
+      }
+    ],
+    [
+      {
+        "8": 1200.0
+      }
+    ],
+    [
+      {
+        "8": 1200.0
+      }
+    ],
+    [
+      {
+        "8": 1200.0
+      }
+    ],
+    [
+      {
+        "8": 1200.0
+      }
+    ],
+    [
+      {
+        "9": 1200.0,
+        "10": 1200.0
+      },
+      {
+        "11": 240.0
+      }
+    ],
+    [
+      {
+        "9": 1200.0,
+        "10": 1200.0
+      },
+      {
+        "11": 240.0
+      }
+    ],
+    [
+      {
+        "9": 1200.0,
+        "10": 1200.0
+      },
+      {
+        "11": 240.0
+      }
+    ],
+    [
+      {
+        "9": 1200.0,
+        "10": 1200.0
+      },
+      {
+        "11": 240.0
+      }
+    ]
+  ],
+  "staticWaitingRate": [
+    0.01,
+    0.01,
+    0.01,
+    0.01,
+    0.01,
+    0.01,
+    0.01,
+    0.01,
+    0.01,
+    0.01,
+    0.01,
+    0.01
+  ],
+  "dynamicProcessingRate": [
+    0.5,
+    0.25,
+    0.4,
+    0.2,
+    0.3,
+    0.5,
+    0.4,
+    0.2,
+    0.5,
+    0.5,
+    0.3,
+    0.1
+  ],
+  "nextJob": [
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    16,
+    17,
+    17,
+    18,
+    18,
+    19,
+    19,
+    -1,
+    -1,
+    -1,
+    -1
+  ],
+  "jobTransportationTime": [
+    [
+      120.0,
+      120.0,
+      120.0,
+      120.0,
+      120.0,
+      120.0,
+      120.0,
+      120.0,
+      2545.584412271571,
+      4024.9223594996215,
+      4024.9223594996215,
+      5091.168824543142
+    ],
+    [
+      120.0,
+      120.0,
+      120.0,
+      120.0,
+      120.0,
+      120.0,
+      120.0,
+      120.0,
+      2545.584412271571,
+      4024.9223594996215,
+      4024.9223594996215,
+      5091.168824543142
+    ],
+    [
+      120.0,
+      120.0,
+      120.0,
+      120.0,
+      120.0,
+      120.0,
+      120.0,
+      120.0,
+      2545.584412271571,
+      4024.9223594996215,
+      4024.9223594996215,
+      5091.168824543142
+    ],
+    [
+      120.0,
+      120.0,
+      120.0,
+      120.0,
+      120.0,
+      120.0,
+      120.0,
+      120.0,
+      2545.584412271571,
+      4024.9223594996215,
+      4024.9223594996215,
+      5091.168824543142
+    ],
+    [
+      120.0,
+      120.0,
+      120.0,
+      120.0,
+      120.0,
+      120.0,
+      120.0,
+      120.0,
+      2545.584412271571,
+      4024.9223594996215,
+      4024.9223594996215,
+      5091.168824543142
+    ],
+    [
+      120.0,
+      120.0,
+      120.0,
+      120.0,
+      120.0,
+      120.0,
+      120.0,
+      120.0,
+      2545.584412271571,
+      4024.9223594996215,
+      4024.9223594996215,
+      5091.168824543142
+    ],
+    [
+      120.0,
+      120.0,
+      120.0,
+      120.0,
+      120.0,
+      120.0,
+      120.0,
+      120.0,
+      2545.584412271571,
+      4024.9223594996215,
+      4024.9223594996215,
+      5091.168824543142
+    ],
+    [
+      120.0,
+      120.0,
+      120.0,
+      120.0,
+      120.0,
+      120.0,
+      120.0,
+      120.0,
+      2545.584412271571,
+      4024.9223594996215,
+      4024.9223594996215,
+      5091.168824543142
+    ],
+    [
+      2545.584412271571,
+      2545.584412271571,
+      2545.584412271571,
+      2545.584412271571,
+      2545.584412271571,
+      2545.584412271571,
+      2545.584412271571,
+      2545.584412271571,
+      120.0,
+      1800.0,
+      1800.0,
+      2545.584412271571
+    ],
+    [
+      4024.9223594996215,
+      4024.9223594996215,
+      4024.9223594996215,
+      4024.9223594996215,
+      4024.9223594996215,
+      4024.9223594996215,
+      4024.9223594996215,
+      4024.9223594996215,
+      1800.0,
+      120.0,
+      120.0,
+      1800.0
+    ],
+    [
+      4024.9223594996215,
+      4024.9223594996215,
+      4024.9223594996215,
+      4024.9223594996215,
+      4024.9223594996215,
+      4024.9223594996215,
+      4024.9223594996215,
+      4024.9223594996215,
+      1800.0,
+      120.0,
+      120.0,
+      1800.0
+    ],
+    [
+      5091.168824543142,
+      5091.168824543142,
+      5091.168824543142,
+      5091.168824543142,
+      5091.168824543142,
+      5091.168824543142,
+      5091.168824543142,
+      5091.168824543142,
+      2545.584412271571,
+      1800.0,
+      1800.0,
+      120.0
+    ]
+  ]
+}

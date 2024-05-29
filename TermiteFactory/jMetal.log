@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-04-12T14:42:38.873442600Z</date>
+  <millis>1649774558873</millis>
+  <nanos>442600</nanos>
+  <sequence>4</sequence>
+  <logger>org.uma.jmetal.util.JMetalLogger</logger>
+  <level>INFO</level>
+  <class>org.uma.jmetal.util.JMetalLogger</class>
+  <method>configureLoggers</method>
+  <thread>33</thread>
+  <message>Loggers configured with null</message>
+</record>
+<record>
+  <date>2022-04-12T14:42:38.884414100Z</date>
+  <millis>1649774558884</millis>
+  <nanos>414100</nanos>
+  <sequence>5</sequence>
+  <logger>org.uma.jmetal.util.JMetalLogger</logger>
+  <level>INFO</level>
+  <class>org.anar.scheduling.HMOGWORunner</class>
+  <method>run</method>
+  <thread>33</thread>
+  <message>Total execution time: 4773ms</message>
+</record>

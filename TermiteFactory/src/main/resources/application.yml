@@ -1,0 +1,15 @@
+server:
+  port: 5701
+spring:
+  data:
+    mongodb:
+#      host: 127.0.0.1
+      host: 121.89.242.11
+      port: 27017
+      database: smartSchedule
+  main:
+    allow-circular-references: true
+
+mqtt-server:
+  config-path: moquette.conf
+  port: 5702

@@ -1,0 +1,108 @@
+{
+  "success": true,
+  "number": 12,
+  "machines": [
+    {
+      "id": "623f230f1046a22cc8d0557d",
+      "number": "1003",
+      "status": "idling",
+      "consumption": 40.41000000000038,
+      "hourlyConsumption": 0.0,
+      "runningTime": 10320,
+      "idlingTime": 18030,
+      "timeStamp": 1648386620699,
+      "procedureList": [
+        {
+          "job": 1648385391300,
+          "number": 1,
+          "operationStartTime": "2022-03-27T21:02:52.527",
+          "processCompletedTime": "2022-03-27T21:02:55.661",
+          "transportCompletedTime": "2022-03-27T21:02:59.692",
+          "preMachine": "1002",
+          "nextMachine": "",
+          "status": "finished",
+          "machine": null,
+          "jobName": "robot type 1",
+          "jobCode": "robot1",
+          "operationName": "pack",
+          "operationCode": "pack"
+        },
+        {
+          "job": 1648385391301,
+          "number": 1,
+          "operationStartTime": "2022-03-27T20:52:38.09",
+          "processCompletedTime": "2022-03-27T20:52:42.121",
+          "transportCompletedTime": "2022-03-27T20:52:46.163",
+          "preMachine": "1002",
+          "nextMachine": "",
+          "status": "finished",
+          "machine": null,
+          "jobName": "robot type 1",
+          "jobCode": "robot1",
+          "operationName": "pack",
+          "operationCode": "pack"
+        },
+        {
+          "job": 1648386050366,
+          "number": 1,
+          "operationStartTime": "2022-03-27T21:03:51.185",
+          "processCompletedTime": "2022-03-27T21:03:54.23",
+          "transportCompletedTime": "2022-03-27T21:03:57.259",
+          "preMachine": "1002",
+          "nextMachine": "",
+          "status": "finished",
+          "machine": null,
+          "jobName": "robot type 1",
+          "jobCode": "robot1",
+          "operationName": "pack",
+          "operationCode": "pack"
+        },
+        {
+          "job": 1648386050367,
+          "number": 1,
+          "operationStartTime": "2022-03-27T21:04:18.381",
+          "processCompletedTime": "2022-03-27T21:04:21.515",
+          "transportCompletedTime": "2022-03-27T21:04:25.534",
+          "preMachine": "1002",
+          "nextMachine": "",
+          "status": "finished",
+          "machine": null,
+          "jobName": "robot type 1",
+          "jobCode": "robot1",
+          "operationName": "pack",
+          "operationCode": "pack"
+        },
+        {
+          "job": 1648386142849,
+          "number": 1,
+          "operationStartTime": "2022-03-27T21:05:13.931",
+          "processCompletedTime": "2022-03-27T21:05:16.982",
+          "transportCompletedTime": "2022-03-27T21:05:21.033",
+          "preMachine": "1002",
+          "nextMachine": "",
+          "status": "finished",
+          "machine": null,
+          "jobName": "robot type 1",
+          "jobCode": "robot1",
+          "operationName": "pack",
+          "operationCode": "pack"
+        },
+        {
+          "job": 1648386142850,
+          "number": 1,
+          "operationStartTime": "2022-03-27T21:05:27.081",
+          "processCompletedTime": "2022-03-27T21:05:30.113",
+          "transportCompletedTime": "2022-03-27T21:05:33.142",
+          "preMachine": "1002",
+          "nextMachine": "",
+          "status": "finished",
+          "machine": null,
+          "jobName": "robot type 1",
+          "jobCode": "robot1",
+          "operationName": "pack",
+          "operationCode": "pack"
+        }
+      ]
+    }
+  ]
+}

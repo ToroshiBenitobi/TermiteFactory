@@ -2,7 +2,7 @@ This project is an intelligent collaborative system for workshop manufacturing i
 
 Interface Display:
 
-![image](https://github.com/ToroshiBenitobi/TermiteFactory/assets/82752385/69755b04-3e0b-4fe2-92a2-76bfcaa56725)
+![image](https://github.com/ToroshiBenitobi/TermiteFactory/assets/82752385/fc1a9186-2364-4824-bc79-c679b3c54744)
 
 Device Management:
 

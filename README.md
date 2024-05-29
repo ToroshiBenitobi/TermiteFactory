@@ -2,25 +2,25 @@ This project is an intelligent collaborative system for workshop manufacturing i
 
 Interface Display:
 
-![image](https://github.com/ToroshiBenitobi/TermiteFactory/assets/82752385/fc1a9186-2364-4824-bc79-c679b3c54744)
+![image](https://github.com/ToroshiBenitobi/TermiteFactory/assets/82752385/8427474a-9a37-44ac-963b-9369d8ee2cc0)
 
 Device Management:
 
-![image](https://github.com/ToroshiBenitobi/TermiteFactory/assets/82752385/74ca0ebc-b737-476e-95e8-f1dbc31a65cb)
+![image](https://github.com/ToroshiBenitobi/TermiteFactory/assets/82752385/7839e5db-a0cb-4eac-847e-f40c6200434d)
 
 Console Allocation (Manual Allocation):
 
-![image](https://github.com/ToroshiBenitobi/TermiteFactory/assets/82752385/cd9727ef-ad10-4e2f-9232-0053073d17f3)
+![image](https://github.com/ToroshiBenitobi/TermiteFactory/assets/82752385/46e83cd3-92f2-4e5f-b2a5-28751b828dc3)
 
 Console Allocation (Automatic Allocation):
 
-![image](https://github.com/ToroshiBenitobi/TermiteFactory/assets/82752385/6606e157-fd83-49eb-9dd6-c741e2f41f39)
+![image](https://github.com/ToroshiBenitobi/TermiteFactory/assets/82752385/01669d99-c5d2-4e84-bc2e-ad971a32181a)
 
 Logs:
 
-![image](https://github.com/ToroshiBenitobi/TermiteFactory/assets/82752385/75bdea2b-3dac-431d-aa16-7fc53f43ea4e)
+![image](https://github.com/ToroshiBenitobi/TermiteFactory/assets/82752385/8473739a-ecdf-401d-aeac-785ace365087)
 
 Event Management:
 
-![image](https://github.com/ToroshiBenitobi/TermiteFactory/assets/82752385/ec68059d-0db7-4cb7-8ad6-095d32158ea9)
+![image](https://github.com/ToroshiBenitobi/TermiteFactory/assets/82752385/578af556-669b-409d-a914-26205efb0727)
 

@@ -41,3 +41,37 @@ Event Management:
 
 ![image](https://github.com/ToroshiBenitobi/TermiteFactory/assets/82752385/578af556-669b-409d-a914-26205efb0727)
 
+
+Here is a brief introduction to the algorithm, with the list numbered:
+
+    Overview of Algorithm Design
+
+    The automatic task allocation function requires a task splitting algorithm and a task allocation algorithm. The task splitting algorithm uses a label-based approach, while the task allocation algorithm utilizes an improved Grey Wolf Optimizer (GWO).
+
+    Task Splitting Algorithm
+
+    Tasks are generated from existing templates. The MongoDB-based algorithm (MDBG) is used, which generates tasks based on blueprint and machine information.
+
+    Input Parameters in MDBG
+        Blueprint: Code, name, category, tags, price, etc.
+        Machine: Number, tags, location, electricity cost, processing time, etc.
+
+    Task Allocation Algorithm
+
+    The HMODGWO (Hybrid Multi-objective Discrete Grey Wolf Optimizer) is used to efficiently allocate tasks. This aims for short production times, low costs, and low idle rates.
+
+    Input Parameters and Goals in HMODGWO
+        Steps and processing times for each task
+        Machine transfer times
+        Material costs
+        Operating costs
+        Idle costs
+        Start times, etc.
+
+    Optimization Goals of HMODGWO
+        Production Cycle (f_1): The maximum time to complete a task
+        Operating Cost (f_2): The combined cost of machine operation, materials, and transportation
+        Machine Idle Rate (f_3): The proportion of time machines are idle
+
+This algorithm enables efficient and cost-effective task allocation.
+

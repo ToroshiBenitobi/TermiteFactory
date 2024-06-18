@@ -7,8 +7,8 @@ This project is an intelligent collaborative system for factory manufacturing in
 > **TermiteFactory:** Run on the main server.
 > - **Scheduling:** Scheduling algorithm based on the GWO algorithm and jMetal library, run by request.
 > - **TermiteFactory:** Backend of the main server.
->> **MoquetteServer:** Server for communication between the main server and devices.
->> **SpringApplication:** Backend of the user interface.
+> -- **MoquetteServer:** Server for communication between the main server and devices.
+> -- **SpringApplication:** Backend of the user interface.
 
 > **TermiteClient:** Run on the edge device.
 > - **MqttClient:** Client for communication between the main server and devices.

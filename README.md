@@ -10,7 +10,7 @@ This project is an intelligent collaborative system for factory manufacturing in
 >   - **MoquetteServer:** Server for communication between the main server and devices.
 >   - **SpringApplication:** Backend of the user interface.
 
-> **TermiteClient:** Run on the edge device.
+> **TermiteClient:** Run on the edge devices.
 > - **MqttClient:** Client for communication between the main server and devices.
 > - **SpringApplication:** Backend of the user interface for the edge device.
 >

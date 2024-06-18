@@ -14,7 +14,7 @@ This project is an intelligent collaborative system for factory manufacturing in
 > - **MqttClient:** Client for communication between the main server and devices.
 > - **SpringApplication:** Backend of the user interface for the edge device.
 >
-> *Front End*: based on Vue.js, not included in the repo.
+> ***Front End***: based on Vue.js, not included in the repo.
 
 
 Interface Display:

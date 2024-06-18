@@ -1,0 +1,627 @@
+{
+  "fields": [
+    {
+      "name": "_id",
+      "path": "_id",
+      "count": 6,
+      "total_count": 6,
+      "type": "ObjectID",
+      "has_duplicates": false,
+      "probability": 1
+    },
+    {
+      "name": "category",
+      "path": "category",
+      "count": 6,
+      "types": [
+        {
+          "name": "String",
+          "bsonType": "String",
+          "path": "category",
+          "count": 6,
+          "values": [
+            "battery",
+            "joint",
+            "gripper",
+            "steel",
+            "robot",
+            "arm"
+          ],
+          "total_count": 0,
+          "probability": 1,
+          "unique": 6,
+          "has_duplicates": false
+        }
+      ],
+      "total_count": 6,
+      "type": "String",
+      "has_duplicates": false,
+      "probability": 1
+    },
+    {
+      "name": "code",
+      "path": "code",
+      "count": 6,
+      "types": [
+        {
+          "name": "String",
+          "bsonType": "String",
+          "path": "code",
+          "count": 6,
+          "values": [
+            "battery1",
+            "robotJoint1",
+            "robotGripper1",
+            "steel",
+            "robot1",
+            "robotArm1"
+          ],
+          "total_count": 0,
+          "probability": 1,
+          "unique": 6,
+          "has_duplicates": false
+        }
+      ],
+      "total_count": 6,
+      "type": "String",
+      "has_duplicates": false,
+      "probability": 1
+    },
+    {
+      "name": "components",
+      "path": "components",
+      "count": 6,
+      "types": [
+        {
+          "name": "Array",
+          "bsonType": "Array",
+          "path": "components",
+          "count": 6,
+          "types": [
+            {
+              "name": "Document",
+              "bsonType": "Document",
+              "path": "components",
+              "count": 5,
+              "fields": [
+                {
+                  "name": "code",
+                  "path": "components.code",
+                  "count": 5,
+                  "types": [
+                    {
+                      "name": "String",
+                      "bsonType": "String",
+                      "path": "components.code",
+                      "count": 5,
+                      "values": [
+                        "steel",
+                        "robotArm1",
+                        "battery1",
+                        "robotGripper1",
+                        "robotJoint1"
+                      ],
+                      "total_count": 0,
+                      "probability": 1,
+                      "unique": 5,
+                      "has_duplicates": false
+                    }
+                  ],
+                  "total_count": 5,
+                  "type": "String",
+                  "has_duplicates": false,
+                  "probability": 1
+                },
+                {
+                  "name": "number",
+                  "path": "components.number",
+                  "count": 5,
+                  "types": [
+                    {
+                      "name": "Int32",
+                      "bsonType": "Int32",
+                      "path": "components.number",
+                      "count": 5,
+                      "values": [
+                        1,
+                        2,
+                        1,
+                        1,
+                        3
+                      ],
+                      "total_count": 0,
+                      "probability": 1,
+                      "unique": 3,
+                      "has_duplicates": true
+                    }
+                  ],
+                  "total_count": 5,
+                  "type": "Int32",
+                  "has_duplicates": true,
+                  "probability": 1
+                }
+              ],
+              "total_count": 0,
+              "probability": 1
+            }
+          ],
+          "lengths": [
+            0,
+            0,
+            1,
+            0,
+            2,
+            2
+          ],
+          "total_count": 5,
+          "probability": 1,
+          "average_length": 0.8333333333333334
+        }
+      ],
+      "total_count": 6,
+      "type": "Array",
+      "has_duplicates": false,
+      "probability": 1
+    },
+    {
+      "name": "name",
+      "path": "name",
+      "count": 6,
+      "types": [
+        {
+          "name": "String",
+          "bsonType": "String",
+          "path": "name",
+          "count": 6,
+          "values": [
+            "battery1",
+            "robot joint 1",
+            "robot gripper 1",
+            "steel",
+            "robot type 1",
+            "robot arm 1"
+          ],
+          "total_count": 0,
+          "probability": 1,
+          "unique": 6,
+          "has_duplicates": false
+        }
+      ],
+      "total_count": 6,
+      "type": "String",
+      "has_duplicates": false,
+      "probability": 1
+    },
+    {
+      "name": "price",
+      "path": "price",
+      "count": 3,
+      "types": [
+        {
+          "name": "Int32",
+          "bsonType": "Int32",
+          "path": "price",
+          "count": 3,
+          "values": [
+            1000,
+            500,
+            300
+          ],
+          "total_count": 0,
+          "probability": 0.5,
+          "unique": 3,
+          "has_duplicates": false
+        },
+        {
+          "name": "Undefined",
+          "type": "Undefined",
+          "path": "price",
+          "count": 3,
+          "total_count": 0,
+          "probability": 0.5,
+          "unique": 1,
+          "has_duplicates": true
+        }
+      ],
+      "total_count": 6,
+      "type": [
+        "Int32",
+        "Undefined"
+      ],
+      "has_duplicates": true,
+      "probability": 0.5
+    },
+    {
+      "name": "procedure",
+      "path": "procedure",
+      "count": 3,
+      "types": [
+        {
+          "name": "Array",
+          "bsonType": "Array",
+          "path": "procedure",
+          "count": 3,
+          "types": [
+            {
+              "name": "Document",
+              "bsonType": "Document",
+              "path": "procedure",
+              "count": 7,
+              "fields": [
+                {
+                  "name": "code",
+                  "path": "procedure.code",
+                  "count": 7,
+                  "types": [
+                    {
+                      "name": "String",
+                      "bsonType": "String",
+                      "path": "procedure.code",
+                      "count": 7,
+                      "values": [
+                        "welding 1",
+                        "welding 2",
+                        "welding 3",
+                        "encapsulation",
+                        "assembly",
+                        "pack",
+                        "welding"
+                      ],
+                      "total_count": 0,
+                      "probability": 1,
+                      "unique": 7,
+                      "has_duplicates": false
+                    }
+                  ],
+                  "total_count": 7,
+                  "type": "String",
+                  "has_duplicates": false,
+                  "probability": 1
+                },
+                {
+                  "name": "day",
+                  "path": "procedure.day",
+                  "count": 1,
+                  "types": [
+                    {
+                      "name": "Undefined",
+                      "type": "Undefined",
+                      "path": "procedure.day",
+                      "count": 6,
+                      "total_count": 0,
+                      "probability": 0.8571428571428571,
+                      "unique": 1,
+                      "has_duplicates": true
+                    },
+                    {
+                      "name": "Array",
+                      "bsonType": "Array",
+                      "path": "procedure.day",
+                      "count": 1,
+                      "types": [
+                        {
+                          "name": "Boolean",
+                          "bsonType": "Boolean",
+                          "path": "procedure.day",
+                          "count": 7,
+                          "values": [
+                            false,
+                            true,
+                            true,
+                            true,
+                            true,
+                            true,
+                            false
+                          ],
+                          "total_count": 0,
+                          "probability": 1,
+                          "unique": 2,
+                          "has_duplicates": true
+                        }
+                      ],
+                      "lengths": [
+                        7
+                      ],
+                      "total_count": 7,
+                      "probability": 0.14285714285714285,
+                      "average_length": 7
+                    }
+                  ],
+                  "total_count": 7,
+                  "type": [
+                    "Undefined",
+                    "Array"
+                  ],
+                  "has_duplicates": true,
+                  "probability": 0.14285714285714285
+                },
+                {
+                  "name": "interval",
+                  "path": "procedure.interval",
+                  "count": 1,
+                  "types": [
+                    {
+                      "name": "Undefined",
+                      "type": "Undefined",
+                      "path": "procedure.interval",
+                      "count": 6,
+                      "total_count": 0,
+                      "probability": 0.8571428571428571,
+                      "unique": 1,
+                      "has_duplicates": true
+                    },
+                    {
+                      "name": "Array",
+                      "bsonType": "Array",
+                      "path": "procedure.interval",
+                      "count": 1,
+                      "types": [
+                        {
+                          "name": "Int32",
+                          "bsonType": "Int32",
+                          "path": "procedure.interval",
+                          "count": 2,
+                          "values": [
+                            28800,
+                            64800
+                          ],
+                          "total_count": 0,
+                          "probability": 1,
+                          "unique": 2,
+                          "has_duplicates": false
+                        }
+                      ],
+                      "lengths": [
+                        2
+                      ],
+                      "total_count": 2,
+                      "probability": 0.14285714285714285,
+                      "average_length": 2
+                    }
+                  ],
+                  "total_count": 7,
+                  "type": [
+                    "Undefined",
+                    "Array"
+                  ],
+                  "has_duplicates": true,
+                  "probability": 0.14285714285714285
+                },
+                {
+                  "name": "isPCD",
+                  "path": "procedure.isPCD",
+                  "count": 2,
+                  "types": [
+                    {
+                      "name": "Undefined",
+                      "type": "Undefined",
+                      "path": "procedure.isPCD",
+                      "count": 5,
+                      "total_count": 0,
+                      "probability": 0.7142857142857143,
+                      "unique": 1,
+                      "has_duplicates": true
+                    },
+                    {
+                      "name": "Boolean",
+                      "bsonType": "Boolean",
+                      "path": "procedure.isPCD",
+                      "count": 2,
+                      "values": [
+                        true,
+                        false
+                      ],
+                      "total_count": 0,
+                      "probability": 0.2857142857142857,
+                      "unique": 2,
+                      "has_duplicates": false
+                    }
+                  ],
+                  "total_count": 7,
+                  "type": [
+                    "Undefined",
+                    "Boolean"
+                  ],
+                  "has_duplicates": true,
+                  "probability": 0.2857142857142857
+                },
+                {
+                  "name": "name",
+                  "path": "procedure.name",
+                  "count": 7,
+                  "types": [
+                    {
+                      "name": "String",
+                      "bsonType": "String",
+                      "path": "procedure.name",
+                      "count": 7,
+                      "values": [
+                        "welding 1",
+                        "welding 2",
+                        "welding 3",
+                        "encapsulation",
+                        "assambly",
+                        "pack",
+                        "welding"
+                      ],
+                      "total_count": 0,
+                      "probability": 1,
+                      "unique": 7,
+                      "has_duplicates": false
+                    }
+                  ],
+                  "total_count": 7,
+                  "type": "String",
+                  "has_duplicates": false,
+                  "probability": 1
+                },
+                {
+                  "name": "tag",
+                  "path": "procedure.tag",
+                  "count": 7,
+                  "types": [
+                    {
+                      "name": "Array",
+                      "bsonType": "Array",
+                      "path": "procedure.tag",
+                      "count": 7,
+                      "types": [
+                        {
+                          "name": "String",
+                          "bsonType": "String",
+                          "path": "procedure.tag",
+                          "count": 14,
+                          "values": [
+                            "TIG",
+                            "gripper",
+                            "CO2shield",
+                            "gripper",
+                            "internal",
+                            "gripper",
+                            "crane",
+                            "gripper",
+                            "robot",
+                            "assembly",
+                            "robot",
+                            "pack",
+                            "robotArm",
+                            "welding"
+                          ],
+                          "total_count": 0,
+                          "probability": 1,
+                          "unique": 10,
+                          "has_duplicates": true
+                        }
+                      ],
+                      "lengths": [
+                        2,
+                        2,
+                        2,
+                        2,
+                        2,
+                        2,
+                        2
+                      ],
+                      "total_count": 14,
+                      "probability": 1,
+                      "average_length": 2
+                    }
+                  ],
+                  "total_count": 7,
+                  "type": "Array",
+                  "has_duplicates": false,
+                  "probability": 1
+                }
+              ],
+              "total_count": 0,
+              "probability": 1
+            }
+          ],
+          "lengths": [
+            4,
+            2,
+            1
+          ],
+          "total_count": 7,
+          "probability": 0.5,
+          "average_length": 2.3333333333333335
+        },
+        {
+          "name": "Undefined",
+          "type": "Undefined",
+          "path": "procedure",
+          "count": 3,
+          "total_count": 0,
+          "probability": 0.5,
+          "unique": 1,
+          "has_duplicates": true
+        }
+      ],
+      "total_count": 6,
+      "type": [
+        "Array",
+        "Undefined"
+      ],
+      "has_duplicates": true,
+      "probability": 0.5
+    },
+    {
+      "name": "raw",
+      "path": "raw",
+      "count": 6,
+      "types": [
+        {
+          "name": "Boolean",
+          "bsonType": "Boolean",
+          "path": "raw",
+          "count": 6,
+          "values": [
+            true,
+            true,
+            false,
+            true,
+            false,
+            false
+          ],
+          "total_count": 0,
+          "probability": 1,
+          "unique": 2,
+          "has_duplicates": true
+        }
+      ],
+      "total_count": 6,
+      "type": "Boolean",
+      "has_duplicates": true,
+      "probability": 1
+    },
+    {
+      "name": "tag",
+      "path": "tag",
+      "count": 6,
+      "types": [
+        {
+          "name": "Array",
+          "bsonType": "Array",
+          "path": "tag",
+          "count": 6,
+          "types": [
+            {
+              "name": "String",
+              "bsonType": "String",
+              "path": "tag",
+              "count": 6,
+              "values": [
+                "battery",
+                "joint",
+                "gripper",
+                "steel",
+                "robot",
+                "arm"
+              ],
+              "total_count": 0,
+              "probability": 1,
+              "unique": 6,
+              "has_duplicates": false
+            }
+          ],
+          "lengths": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ],
+          "total_count": 6,
+          "probability": 1,
+          "average_length": 1
+        }
+      ],
+      "total_count": 6,
+      "type": "Array",
+      "has_duplicates": false,
+      "probability": 1
+    }
+  ],
+  "count": 6
+}

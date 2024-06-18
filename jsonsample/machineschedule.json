@@ -1,0 +1,182 @@
+{
+  "type": "allocation",
+  "timeStamp": 1648321783800,
+  "operations": [
+    {
+      "job": 1648321767191,
+      "number": 0,
+      "startTime": 288000.0,
+      "processTime": 1200.0,
+      "transportTime": 1800.0,
+      "nextMachine": "1003",
+      "preMachine": "",
+      "operationName": "assambly",
+      "operationCode": "assembly"
+    },
+    {
+      "job": 1648321767192,
+      "number": 0,
+      "startTime": 289200.0,
+      "processTime": 1200.0,
+      "transportTime": 1800.0,
+      "nextMachine": "1003",
+      "preMachine": "",
+      "operationName": "assambly",
+      "operationCode": "assembly"
+    },
+    {
+      "job": 1648321767193,
+      "number": 0,
+      "startTime": 290400.0,
+      "processTime": 1200.0,
+      "transportTime": 1800.0,
+      "nextMachine": "1003",
+      "preMachine": "",
+      "operationName": "assambly",
+      "operationCode": "assembly"
+    }
+  ],
+  "jobs": [
+    {
+      "index": 1648321767179,
+      "nextJob": 1648321767185,
+      "jobCode": "robotGripper1",
+      "jobName": "robot gripper 1",
+      "numberOfOperations": 4,
+      "preJobs": []
+    },
+    {
+      "index": 1648321767180,
+      "nextJob": 1648321767186,
+      "jobCode": "robotGripper1",
+      "jobName": "robot gripper 1",
+      "numberOfOperations": 4,
+      "preJobs": []
+    },
+    {
+      "index": 1648321767181,
+      "nextJob": 1648321767187,
+      "jobCode": "robotGripper1",
+      "jobName": "robot gripper 1",
+      "numberOfOperations": 4,
+      "preJobs": []
+    },
+    {
+      "index": 1648321767182,
+      "nextJob": 1648321767188,
+      "jobCode": "robotGripper1",
+      "jobName": "robot gripper 1",
+      "numberOfOperations": 4,
+      "preJobs": []
+    },
+    {
+      "index": 1648321767183,
+      "nextJob": 1648321767189,
+      "jobCode": "robotGripper1",
+      "jobName": "robot gripper 1",
+      "numberOfOperations": 4,
+      "preJobs": []
+    },
+    {
+      "index": 1648321767184,
+      "nextJob": 1648321767190,
+      "jobCode": "robotGripper1",
+      "jobName": "robot gripper 1",
+      "numberOfOperations": 4,
+      "preJobs": []
+    },
+    {
+      "index": 1648321767185,
+      "nextJob": 1648321767191,
+      "jobCode": "robotArm1",
+      "jobName": "robot arm 1",
+      "numberOfOperations": 1,
+      "preJobs": [
+        1648321767179
+      ]
+    },
+    {
+      "index": 1648321767186,
+      "nextJob": 1648321767191,
+      "jobCode": "robotArm1",
+      "jobName": "robot arm 1",
+      "numberOfOperations": 1,
+      "preJobs": [
+        1648321767180
+      ]
+    },
+    {
+      "index": 1648321767187,
+      "nextJob": 1648321767192,
+      "jobCode": "robotArm1",
+      "jobName": "robot arm 1",
+      "numberOfOperations": 1,
+      "preJobs": [
+        1648321767181
+      ]
+    },
+    {
+      "index": 1648321767188,
+      "nextJob": 1648321767192,
+      "jobCode": "robotArm1",
+      "jobName": "robot arm 1",
+      "numberOfOperations": 1,
+      "preJobs": [
+        1648321767182
+      ]
+    },
+    {
+      "index": 1648321767189,
+      "nextJob": 1648321767193,
+      "jobCode": "robotArm1",
+      "jobName": "robot arm 1",
+      "numberOfOperations": 1,
+      "preJobs": [
+        1648321767183
+      ]
+    },
+    {
+      "index": 1648321767190,
+      "nextJob": 1648321767193,
+      "jobCode": "robotArm1",
+      "jobName": "robot arm 1",
+      "numberOfOperations": 1,
+      "preJobs": [
+        1648321767184
+      ]
+    },
+    {
+      "index": 1648321767191,
+      "nextJob": -1,
+      "jobCode": "robot1",
+      "jobName": "robot type 1",
+      "numberOfOperations": 2,
+      "preJobs": [
+        1648321767185,
+        1648321767186
+      ]
+    },
+    {
+      "index": 1648321767192,
+      "nextJob": -1,
+      "jobCode": "robot1",
+      "jobName": "robot type 1",
+      "numberOfOperations": 2,
+      "preJobs": [
+        1648321767187,
+        1648321767188
+      ]
+    },
+    {
+      "index": 1648321767193,
+      "nextJob": -1,
+      "jobCode": "robot1",
+      "jobName": "robot type 1",
+      "numberOfOperations": 2,
+      "preJobs": [
+        1648321767189,
+        1648321767190
+      ]
+    }
+  ]
+}

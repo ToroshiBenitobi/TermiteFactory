@@ -75,3 +75,13 @@ Here is a brief introduction to the algorithm, with the list numbered:
 
 This algorithm enables efficient and cost-effective task allocation.
 
+
+![image](https://github.com/ToroshiBenitobi/TermiteFactory/assets/82752385/613407df-af61-4819-a84a-543005b4f55f)
+
+![image](https://github.com/ToroshiBenitobi/TermiteFactory/assets/82752385/5c3f3f55-79a2-4351-b2ea-1e42f1c238b3)
+
+![image](https://github.com/ToroshiBenitobi/TermiteFactory/assets/82752385/c1d61e33-7d5a-4e36-96d3-c80707677ac4)
+
+![image](https://github.com/ToroshiBenitobi/TermiteFactory/assets/82752385/5a0e17fd-4b08-4dc5-bae9-2bb0c069662d)
+
+
